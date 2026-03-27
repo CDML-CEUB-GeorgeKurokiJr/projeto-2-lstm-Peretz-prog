@@ -1,3 +1,5 @@
 Este projeto usa Inteligência Artificial para tentar prever o preço das ações da NVIDIA. O código funciona como um "estudante" digital: ele baixa o histórico de preços dos últimos anos e usa uma rede neural do tipo LSTM — um modelo que possui uma "memória" para identificar sequências — para aprender como o mercado se comporta.
 
 Para facilitar o aprendizado, os preços são convertidos para uma escala entre 0 e 1 e, depois de treinar exaustivamente, o modelo tenta projetar o valor para os próximos 7 dias. O resultado final é apresentado em um gráfico que mostra se a tendência é de alta ou de baixa, servindo como uma demonstração prática de como a tecnologia de Deep Learning pode ser aplicada ao setor financeiro.
+
+update
